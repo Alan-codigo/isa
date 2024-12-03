@@ -1,0 +1,36 @@
+C:/Users/alan_/Desktop/class/participacion5oc/ISA_BR_ALU_RAM/RAM.v {1 {vlog -work work -stats=none {C:\Users\alan_\Desktop\class\participacion5oc\ISA_BR_ALU_RAM\RAM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}} C:/Users/alan_/Desktop/class/participacion5oc/ISA_BR_ALU_RAM/BR.v {1 {vlog -work work -stats=none {C:\Users\alan_\Desktop\class\participacion5oc\ISA_BR_ALU_RAM\BR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR
+
+Top level modules:
+	BR
+
+} {} {}} C:/Users/alan_/Desktop/class/participacion5oc/ISA_BR_ALU_RAM/ISA.v {1 {vlog -work work -stats=none {C:\Users\alan_\Desktop\class\participacion5oc\ISA_BR_ALU_RAM\ISA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ISA
+
+Top level modules:
+	ISA
+
+} {} {}} C:/Users/alan_/Desktop/class/participacion5oc/ISA_BR_ALU_RAM/ALU.v {1 {vlog -work work -stats=none {C:\Users\alan_\Desktop\class\participacion5oc\ISA_BR_ALU_RAM\ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/alan_/Desktop/class/participacion5oc/ISA_BR_ALU_RAM/tb_ISA.v {1 {vlog -work work -stats=none {C:\Users\alan_\Desktop\class\participacion5oc\ISA_BR_ALU_RAM\tb_ISA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_ISA
+
+Top level modules:
+	tb_ISA
+
+} {} {}}
